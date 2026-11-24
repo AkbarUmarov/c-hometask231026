@@ -1,0 +1,14 @@
+C:\c# wek3 day4\bin\Debug\net10.0\c# wek3 day4.exe
+C:\c# wek3 day4\bin\Debug\net10.0\c# wek3 day4.deps.json
+C:\c# wek3 day4\bin\Debug\net10.0\c# wek3 day4.runtimeconfig.json
+C:\c# wek3 day4\bin\Debug\net10.0\c# wek3 day4.dll
+C:\c# wek3 day4\bin\Debug\net10.0\c# wek3 day4.pdb
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.AssemblyInfoInputs.cache
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.AssemblyInfo.cs
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.csproj.CoreCompileInputs.cache
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.dll
+C:\c# wek3 day4\obj\Debug\net10.0\refint\c# wek3 day4.dll
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.pdb
+C:\c# wek3 day4\obj\Debug\net10.0\c# wek3 day4.genruntimeconfig.cache
+C:\c# wek3 day4\obj\Debug\net10.0\ref\c# wek3 day4.dll
